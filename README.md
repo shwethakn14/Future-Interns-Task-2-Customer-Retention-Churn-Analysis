@@ -87,13 +87,13 @@ Note: Confirm specific totals, percentages, and conclusions against the actual d
 🖼️ Dashboard Screenshots
 
 📉 Churn Overview
-"Churn Overview Dashboard" (./Screenshot%202026-10-08%20185301.png)
+
 
 ⏳ Customer Lifetime Analysis
-"Customer Lifetime Analysis Dashboard" (./Screenshot%202026-10-08%20185434.png)
+"Churn Overview Dashboard" (./Screenshot%202026-10-08%20185301.png)
 
 📦 Project Deliverables
-
+"Customer Lifetime Analysis Dashboard" (./Screenshot%202026-10-08%20185434.png)
 - Power BI dashboard file (".pbix")
 - Churn Overview dashboard
 - Customer Lifetime Analysis dashboard
