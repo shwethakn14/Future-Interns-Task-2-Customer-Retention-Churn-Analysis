@@ -87,10 +87,10 @@ Note: Confirm specific totals, percentages, and conclusions against the actual d
 🖼️ Dashboard Screenshots
 
 📉 Churn Overview
-
+![Churn Overview](./Screenshot%202026-10-08%20185301.png)
 
 ⏳ Customer Lifetime Analysis
-"Churn Overview Dashboard" (./Screenshot%202026-10-08%20185301.png)
+![Customer Lifetime Analysis](./Screenshot%202026-10-08%20185434.png)
 
 📦 Project Deliverables
 "Customer Lifetime Analysis Dashboard" (./Screenshot%202026-10-08%20185434.png)
